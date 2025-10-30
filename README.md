@@ -3,6 +3,10 @@
 > [!Tip]
 >
 > GDUT Anyview 2024级程序设计作业 个人题解留档
+> 
+> **已知 25 级的题目在题号相同的情况下题面可能不一致 ([#1](https://github.com/GDUTMeow/Anyview-Programming2024-Reference/pull/1))，这种情况下请酌情复制粘贴，或者更改后提交 PR**
+> 
+> **文件包含 `.senior` 的为该题号题目的高级版本（即写法高级一些），一样能过题，自己选一个用就好了**
 >
 > ![](https://cdn.bili33.top/gh/GamerNoTitle/Anyview-Programming2024-Reference/img/msedge_I05dTFaA18.png)
 
@@ -152,9 +156,12 @@
 - [CP05EX004](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX004.c)
 - [CP05EX012](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX012.c)
 - [CP05EX020](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX020.c)
+- [CP05EX020.senior](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX020.senior.c)
 - [CP05EX022](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX022.c)
 - [CP05EX026](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX026.c)
+- [CP05EX026.senior](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX026.senior.c)
 - [CP05EX028](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX028.c)
+- [CP05EX028.senior](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX028.senior.c)
 - [CP05EX029](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX029.c)
 - [CP05EX030](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX030.c)
 - [CP05EX032](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX032.c)
@@ -165,11 +172,14 @@
 - [CP05EX051](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX051.c)
 - [CP05EX053](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX053.c)
 - [CP05EX055](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX055.c)
+- [CP05EX055.senior](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX055.senior.c)
 - [CP05EX056](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX056.c)
 - [CP05EX062](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX062.c)
 - [CP05EX095](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX095.c)
 - [CP05EX112](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX112.c)
+- [CP05EX112.senior](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX112.senior.c)
 - [CP05EX125](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX125.c)
+- [CP05EX125.senior](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX125.senior.c)
 - [CP05EX132](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX132.c)
 - [CP05EX161](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX161.c)
 - [CP05EX163](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX163.c)
@@ -184,6 +194,7 @@
 - [CP05EX203](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX203.c)
 - [CP05EX205](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX205.c)
 - [CP05EX215](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX215.c)
+- [CP05EX215.senior](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX215.senior.c)
 - [CP05EX223](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX223.c)
 - [CP05EX225](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX225.c)
 - [CP05EX233](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter5/CP05EX233.c)
@@ -224,10 +235,12 @@
 - [CP06EX120](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX120.c)
 - [CP06EX121](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX121.c)
 - [CP06EX225](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX225.c)
+- [CP06EX225.senior](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX225.senior.c)
 - [CP06EX255](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX255.c)
 - [CP06EX265](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX265.c)
 - [CP06EX425](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX425.c)
 - [CP06EX435](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX435.c)
+- [CP06EX435.senior](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX435.senior.c)
 - [CP06EX615](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX615.c)
 - [CP06EX621](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX621.c)
 - [CP06EX622](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX622.c)
@@ -247,7 +260,10 @@
 - [CP06EX653](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX653.c)
 - [CP06EX654](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX654.c)
 - [CP06EX656](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX656.c)
+- [CP06EX656.senior](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX656.senior.c)
+- [CP06EX657](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX657.c)
 - [CP06EX662](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX662.c)
+- [CP06EX662.senior](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX662.senior.c)
 - [CP06EX663](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX663.c)
 - [CP06EX664](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX664.c)
 - [CP06EX665](https://github.com/GamerNoTitle/Anyview-Programming2024-Reference/blob/master/Chapter6/CP06EX665.c)
