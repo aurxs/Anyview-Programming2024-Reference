@@ -1,7 +1,6 @@
 #include "allinclude.h"
-
-int main(int m, int n, int a[], int b[])
-{
+int main(int m, int n, int a[], int b[],int size_b)
+{// Add your code here
     // 第一步：给数组a的前n个元素赋予从2开始的偶数
     for (int i = 0; i < n; i++)
     {
@@ -24,5 +23,8 @@ int main(int m, int n, int a[], int b[])
         b_index = b_index + 1;
     }
 
+    for (int i = 0; i < size_b; i++) {
+        printf("%d ",b[i]);
+    }
     return 0;
 }
